@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IEEEChallenge</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favourites">Favourites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myCart">My Cart</string>
+    <string name="last_orders">Last Orders</string>
+    <string name="log_out">Log Out</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="please_enter_your_received_otp">Please enter your received OTP</string>
+    <string name="your_favourite_list_is_empty_add_your_favourite_food_so_you_can_find_it_here">Your favourite list is empty. Add your favourite food so you can find it here.</string>
+    <string name="nothing_to_see_here">Nothing to See Here !</string>
+    <string name="your_cart_is_empty">Your cart is empty !</string>
+    <string name="looks_like_you_haven_t_added_any_courses_to_your_bag_yet">Looks like you haven\'t added any courses to your bag yet</string>
+    <string name="total">Total</string>
+    <string name="make_order">Make Order</string>
+</resources>
